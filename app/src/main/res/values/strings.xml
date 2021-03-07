@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidHW4</string>
+    <string name="main_activity_send_button">Send Message</string>
+</resources>
